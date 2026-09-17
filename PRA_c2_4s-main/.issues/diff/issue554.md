@@ -1,6 +1,7 @@
 ## Ticket nr. 554
 Categorie: **difficult**
 Inzender:	**Daniël van Olphen**
+gemaakt door: jared
 
 > De header lijkt wat weg te vallen tegen de achtergrond. Geef een rand van 3px aan de bovenkant (in de kleur van de tekst en het logo) en een subtiele schaduw aan de onderkant. Haal eventueel ook de doorzichtigheid weg.
 

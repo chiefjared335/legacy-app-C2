@@ -179,11 +179,13 @@ h4{
 
 /*================header=======================*/
 header{
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: #015940;
   position: fixed;
   top:0;
   z-index: 10;
   width: 100%;
+  border-top: 2px solid #000000;
+  box-shadow: 0px 2px 5px #96b7ae;
 }
 header .wrapper{
   display: flex;
