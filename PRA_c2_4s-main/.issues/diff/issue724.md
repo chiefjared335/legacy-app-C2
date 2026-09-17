@@ -2,6 +2,7 @@
 Categorie: **difficult**
 Inzender:	**Alessandra van de Wijdeven**
 
+gemaakt door: jared
 > Menubalk; de witte letters hebben niet voldoende contrast met de groene achtergrond van de knop. Daardoor is het menu slecht leesbaar voor mensen die kleurenblind of slechtziend zijn. Pas de kleur van de knoppen aan zodat het contrast verhoogd wordt.
 
 
