@@ -2,6 +2,8 @@
 Categorie: **medium**
 Inzender:	**Radi Schreiber**
 
+gemaakt door: famke
+
 > Het stukje met adresgegevens in de footer is wat rommelig. Maak dit netter. Wellicht kan de straatnaam bijvoorbeeld _onder_ het kopje adresgegevens komen, of kun je de titels dikgedrukt / schuingedrukt maken of iets dergelijks.
 
 
@@ -10,3 +12,5 @@ Inzender:	**Radi Schreiber**
 - [ ] Probeer zaken uit, en kijk op de site of het stuk er duidelijker van wordt.
 - [ ] Los het probleem op.
 - [ ] Test je oplossingen.
+
+
