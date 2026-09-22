@@ -1,7 +1,7 @@
 ## Ticket nr. 865
 Categorie: **difficult**
 Inzender:	**Alexandra Weijts**
-
+gemaakt door: jared
 > De foto's van docenten zijn nu rond, maar we denken dat een vierkante foto beter bij de stijl van de site past. Die is immers vrij "hoekig" vanwege het gebruikte lettertype. Plaats ook een subtiele schaduw achter de foto's.
 
 #### Stappenplan
