@@ -2,5 +2,6 @@
 Categorie: **easy**
 Inzender:	**Ynte ten Veen**
 
+ Gemaakt door Berkay
 > Zorg ervoor dat alle e-mailadressen naar een aanklikbare link worden veranderd, een zogenaamde "mailto" link.
 
