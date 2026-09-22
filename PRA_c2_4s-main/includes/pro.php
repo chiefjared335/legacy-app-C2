@@ -24,3 +24,18 @@
 		</div>
 	</div>
 </div>
+
+<script>
+	document.getElementById('readmore-link').addEventListener('click', function() {
+		var text = document.getElementById('readmore-text');
+		var link = document.getElementById('readmore-link');
+		
+		if (text.style.display === 'none') {
+			text.style.display = 'inline';
+			link.textContent = 'Lees minder...';
+		} else {
+			text.style.display = 'none';
+			link.textContent = 'Lees meer...';
+		}
+	});
+</script>

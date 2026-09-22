@@ -2,6 +2,7 @@
 Categorie: **difficult**
 Inzender:	**Marley Khalil**
 
+gemaakt door Jared Aerts
 > De "lees meer" link in de sectie van PRO functioneert niet. Er gebeurt niets bij een klik op de link, terwijl eigenlijk een stuk tekst moet verschijnen. Het is onbekend waarom dit niet werkt. Graag uitzoeken en oplossen!
 
 #### Stappenplan
